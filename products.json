@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "name":"zapatilla"
+  },
+  {
+    "id":2,
+    "name":"remera"
+  },
+  {
+    "id":3,
+    "name":"buzo"
+  },
+  {
+    "id":4,
+    "name":"pantalon"
+  },
+  {
+    "id":5,
+    "name":"campera"
+  },
+  {
+    "id":6,
+    "name":"gorra"
+  }
+]
